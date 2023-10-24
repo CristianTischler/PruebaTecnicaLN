@@ -2,6 +2,10 @@
 
 Bienvenidos al repositorio de prueba técnica para "La Nación"! En este repositorio encontrarás un proyecto que demuestra mis habilidades técnicas y mi capacidad para desarrollar aplicaciones de alta calidad. A continuación, te proporcionaré las instrucciones necesarias para instalar, configurar y ejecutar este proyecto de manera eficiente.
 
+## Prueba el Proyecto Aquí
+
+[Acumulado Grilla](https://prueba-tecnica-ln.vercel.app/)
+
 ## Descripción del Proyecto
 
 Este repositorio contiene una aplicación de prueba que ha sido desarrollada como parte del proceso de selección de "La Nación". El proyecto utiliza las últimas tecnologías y las mejores prácticas de desarrollo.
